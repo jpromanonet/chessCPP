@@ -61,7 +61,7 @@ class Board
     @param outStream the output stream
   */
 
-  void display(ostream& outStream) const
+  void display(ostream& outStream) const;
 
 
 private:
